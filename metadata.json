@@ -1,0 +1,12 @@
+{
+"name": "Trump Joe",
+"symbol": "TRMJOE",
+"description": "erosange token eka",
+"image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/uploads/2024-05/3040c904-b46b-41cd-b17c-a282736f5d12.JPG",
+"attributes": [
+{
+"trait_type": "Item",
+"value": "Developer Portal"
+}
+]
+}
