@@ -1,9 +1,9 @@
 {
-"name": "Trump Joe",
-"symbol": "TRMJOE",
-"description": "erosange token eka",
-"image": "https://raw.githubusercontent.com/hiranEranda/soltokenmeta/main/logo.png",
-"logoURI": "https://raw.githubusercontent.com/hiranEranda/soltokenmeta/main/logo.png",
+"name": "TOURISMO",
+"symbol": "TOUR",
+"description": "description",
+"image": "https://raw.githubusercontent.com/hiranEranda/soltokenmeta/main/tour.png",
+"logoURI": "https://raw.githubusercontent.com/hiranEranda/soltokenmeta/main/tour.png",
 "attributes": [
 {
 "trait_type": "Item",
